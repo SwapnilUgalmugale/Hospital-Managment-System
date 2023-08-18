@@ -1,0 +1,3 @@
+export const PAYMENT_REQ="PAYMENT_REQ"
+export const PAYMENT_SUCC="PAYMENT_SUCC"
+export const PAYMENT_FAIL="PAYMENT_FAIL"
